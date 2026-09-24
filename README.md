@@ -53,7 +53,7 @@ ZirNevis از مدل‌های هوش مصنوعی اجراشونده روی دس
 
 **مدل آموزش‌دیده:**
 
-[Marian English → Persian – Hugging Face](https://huggingface.co/omid1989ahmadi/marian-en-fa?utm_source=chatgpt.com)
+[Marian English → Persian – Hugging Face](https://huggingface.co/omid1989ahmadi/marian-en-fa)
 
 این مدل به‌صورت مستقل در Hugging Face منتشر شده است.
 
